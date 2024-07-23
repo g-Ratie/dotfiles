@@ -1,0 +1,7 @@
+[user]
+	email = s1f102201469@iniad.org
+	name = Yoshiki
+[init]
+	defaultBranch = main
+[core]
+	ignorecase = false
