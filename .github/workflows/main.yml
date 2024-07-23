@@ -20,4 +20,3 @@ on:
   
         - name: Setup Dotfiles
           run: make
-  
