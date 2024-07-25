@@ -17,12 +17,6 @@ source ~/app/zsh-snap/znap.zsh
 eval "$(starship init zsh)"
 
 
-PATH=~/.console-ninja/.bin:$PATH
-source "$HOME/.rye/env"
-. "$HOME/.rye/env"
-
-
 eval "$(rbenv init - zsh)"
 export PYENV_ROOT="$HOME/.pyenv"
 command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
