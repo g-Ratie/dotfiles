@@ -20,6 +20,7 @@ brew "starship"
 brew "rbenv"
 brew "ruby-build"
 brew "rye"
+brew "go"
 
 cask "arc"
 cask "discord"
