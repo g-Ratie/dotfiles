@@ -8,7 +8,7 @@ export PATH="/usr/local/opt/openjdk/bin:$PATH"
 
 
 
-source ~/app/zsh-snap/znap.zsh
+# source ~/app/zsh-snap/znap.zsh
 
 #znap source marlonrichert/zsh-autocomplete
 #zstyle '：autocomplete：* ' fzf-completion yes
