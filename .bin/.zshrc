@@ -8,15 +8,16 @@ export PATH="/usr/local/opt/openjdk/bin:$PATH"
 
 
 
+
 # source ~/app/zsh-snap/znap.zsh
 
 #znap source marlonrichert/zsh-autocomplete
 #zstyle '：autocomplete：* ' fzf-completion yes
 
 
-eval "$(starship init zsh)"
 
 
 eval "$(rbenv init - zsh)"
 export PYENV_ROOT="$HOME/.pyenv"
 command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(starship init zsh)"
