@@ -21,6 +21,8 @@ brew "rbenv"
 brew "ruby-build"
 brew "rye"
 brew "go"
+brew "font-hack-nerd-font"
+
 
 cask "arc"
 cask "discord"
@@ -35,6 +37,7 @@ cask "visual-studio-code"
 cask "warp"
 cask "zoom"
 cask "linearmouse"
+ 
 
 mas "LINE", id: 539883307
 mas "RunCat", id: 1429033973
