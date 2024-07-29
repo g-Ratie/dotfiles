@@ -37,6 +37,7 @@ cask "visual-studio-code"
 cask "warp"
 cask "zoom"
 cask "linearmouse"
+cask "rectangle"
  
 
 mas "LINE", id: 539883307
